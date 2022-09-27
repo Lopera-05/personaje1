@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ember Hunter
+* source:	https://sketchfab.com/3d-models/ember-hunter-2fd4dfa2d0f644498e255f29e6ad4e76
+* author:	professional_trickster (https://sketchfab.com/professional_trickster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ember Hunter" (https://sketchfab.com/3d-models/ember-hunter-2fd4dfa2d0f644498e255f29e6ad4e76) by professional_trickster (https://sketchfab.com/professional_trickster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

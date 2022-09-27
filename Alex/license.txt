@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alex
+* source:	https://sketchfab.com/3d-models/alex-9c496e3d5b934308b21fe40908c52b93
+* author:	mdarifin40 (https://sketchfab.com/mdarifin40)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alex" (https://sketchfab.com/3d-models/alex-9c496e3d5b934308b21fe40908c52b93) by mdarifin40 (https://sketchfab.com/mdarifin40) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
